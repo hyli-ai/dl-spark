@@ -60,11 +60,11 @@ log_data/2018/11/2018-11-13-events.json
 
 And below is an example of what the data in a log file, **2018-11-12-events.json**, looks like.
 
-![Log-data image](/log-data.png)
+![Log-data image](/images/log-data.png)
 
 ## Database and the Star Schema Design
 Using the song and log datasets, a star schema optimized for queries on song play analysis was created based on the following entity-relationship (ER) diagram:
-![ER Diagram](/ERD.png)
+![ER Diagram](/images/ERD.png)
 
 This includes the following tables:
 ### Fact Table
